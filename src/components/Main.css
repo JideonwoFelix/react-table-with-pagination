@@ -1,0 +1,20 @@
+.Main{
+    border:1px solid #444;
+    background-color: white;
+    width: 100%;
+}
+.Main-header{
+    display: flex;
+    font-size: 20px;
+    justify-content: left;
+    margin-left: 10px;
+    padding-left: 10px;
+}
+.Main-header p{
+    padding: 10px;
+    color: #888;
+}
+.Main-header .active{
+    color: #000080;
+    border-bottom: 1px solid #000080;
+}

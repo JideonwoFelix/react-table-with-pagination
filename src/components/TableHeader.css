@@ -1,0 +1,27 @@
+.table-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input,
+select{
+    padding: 10px;
+    margin: 5px;
+    border:1px solid #4444;
+    color: #444;
+    border-radius: 5px;
+    width: 150px;
+}
+
+button{
+    background-color: #000080;
+    border:1px solid #000080;
+    color:white;
+    border-radius: 5px;
+    padding: 10px 15px;
+}
+form{
+    border-top: 1px solid #4444;
+    width: 100%;
+}
