@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-table-with-pagination/static/css/main.63485e44.css",
+    "main.js": "/react-table-with-pagination/static/js/main.2056a181.js",
+    "static/js/787.e738ce37.chunk.js": "/react-table-with-pagination/static/js/787.e738ce37.chunk.js",
+    "static/media/logo.svg": "/react-table-with-pagination/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-table-with-pagination/index.html",
+    "main.63485e44.css.map": "/react-table-with-pagination/static/css/main.63485e44.css.map",
+    "main.2056a181.js.map": "/react-table-with-pagination/static/js/main.2056a181.js.map",
+    "787.e738ce37.chunk.js.map": "/react-table-with-pagination/static/js/787.e738ce37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63485e44.css",
+    "static/js/main.2056a181.js"
+  ]
+}
